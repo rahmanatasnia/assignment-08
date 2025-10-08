@@ -34,7 +34,15 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-              <button className=''><a className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white"><img src={github} alt="Github Logo" className='w-[20px] h-[20px] invert brightness-0'/>Contribute</a></button>
+
+             <a href='https://github.com/rahmanatasnia/assignment-08' target='_blank' rel='noopener noreferrer' className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white hover:bg-purple-300 hover:scale-105">
+
+             <img src={github} alt="Github Logo" className='w-[20px] h-[20px] invert brightness-0'/>
+
+             Contribute
+
+             </a>
+
             </div>
             </div>
         </div>
