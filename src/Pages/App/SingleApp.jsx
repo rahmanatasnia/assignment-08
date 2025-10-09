@@ -1,17 +1,18 @@
 import React from 'react';
 import { ArrowDownToLine } from 'lucide-react';
 import { Star } from 'lucide-react';
+import { Link } from 'react-router';
 
 const SingleApp = ({ singleApp }) => {
 
-    const { image, title, ratingAvg, downloads } = singleApp;
+    const { image, title, ratingAvg, downloads, id } = singleApp;
     return (
-
-        <div className='max-w-[1440px] mx-auto mt-15'>
+       <Link to ={`/appDetails/${id}`}>
+        <div className='max-w-[1440px] mx-auto p-6 lg:p-0 md:p-0 mt-8'>
             
-                <div className='bg-base-200 rounded-md p-8 mb-2 shadow-md hover:bg-pink-100 hover:scale-95'>
+                <div className='bg-base-200 rounded-md p-8 shadow-md hover:bg-pink-100 hover:scale-95'>
                     <div>
-                        <img src={image} alt="" className='w-70 h-70 rounded-md' />
+                        <img src={image} alt="" className='w-90 h-90 md:w-80 md:h-80 lg:w-70 lg:h-70 rounded-md' />
                         <h1 className='pt-4 font-semibold text-[20px]'>{title}</h1>
 
                         <div className='flex justify-between pt-4 font-semibold'>
@@ -25,6 +26,7 @@ const SingleApp = ({ singleApp }) => {
                 </div>
 
         </div>
+        </Link>
 
     );
 };

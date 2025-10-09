@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.pinimg.com/1200x/66/0a/95/660a955094c463946a1ae8bd58d7832e.jpg",
+    "title": "Floret Planner",
+    "companyName": "Floret Inc.",
+    "id": 1,
+    "description": "Let every day bloom with purpose; plan gently and let your creativity flourish.",
+    "size": 72,
+    "reviews": 5400,
+    "ratingAvg": 4.8,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 3770 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/82/c2/70/82c270dd83c1e7ecc3adb7948d4e8fac.jpg",
+    "title": "Celeste Calendar",
+    "companyName": "Celeste Labs",
+    "id": 2,
+    "description": "Every moment is a constellation; schedule wisely and let your plans align with the stars.",
+    "size": 80,
+    "reviews": 4800,
+    "ratingAvg": 4.7,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2900 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/65/38/42/653842b2e0650239dba9dcf780b8b127.jpg",
+    "title": "Cute To-Do",
+    "companyName": "Kawaii Works",
+    "id": 3,
+    "description": "Small tasks done with joy become the foundation of a happy life; check them with a smile.",
+    "size": 50,
+    "reviews": 2200,
+    "ratingAvg": 4.5,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1240 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/31/e9/25/31e925acfcc9b9d450c7ae3968bed0a8.jpg",
+    "title": "Dream Journal",
+    "companyName": "NightOwl Apps",
+    "id": 4,
+    "description": "Capture fleeting thoughts and dreams; writing them down transforms them into possibilities.",
+    "size": 55,
+    "reviews": 1800,
+    "ratingAvg": 4.4,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 825 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/9c/f1/97/9cf197bb1bf71524c229dcfd375a3141.jpg",
+    "title": "Chibi Notes",
+    "companyName": "SugarDash",
+    "id": 5,
+    "description": "Little joys and gentle colors turn note-taking into a creative ritual for your day.",
+    "size": 60,
+    "reviews": 2600,
+    "ratingAvg": 4.5,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1370 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/fd/09/97/fd0997a4003d30d55829045d0a77ff55.jpg",
+    "title": "Habit Blossom",
+    "companyName": "Bloom Labs",
+    "id": 6,
+    "description": "Nurture your habits like petals; consistent effort will grow into something beautiful.",
+    "size": 48,
+    "reviews": 2300,
+    "ratingAvg": 4.6,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1330 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/8e/ae/a1/8eaea1eff456324995eac77658420299.jpg",
+    "title": "Celestial Planner",
+    "companyName": "Starlight Soft",
+    "id": 7,
+    "description": "Align your day with the universe; thoughtful planning brings peace to the mind.",
+    "size": 70,
+    "reviews": 2000,
+    "ratingAvg": 4.6,
+    "downloads": 110000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 810 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/a7/e7/9c/a7e79c845b9f7ae2ae3c2fc83e503533.jpg",
+    "title": "Pastel To-Do",
+    "companyName": "SoftKitty Dev",
+    "id": 8,
+    "description": "Pastel colors and gentle reminders transform everyday tasks into a soothing experience.",
+    "size": 52,
+    "reviews": 1900,
+    "ratingAvg": 4.5,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 905 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/28/08/01/2808013b484a2999bf9d83b1ac38df73.jpg",
+    "title": "Cloud Notelet ☁️",
+    "companyName": "Aesthetic Dev Studio",
+    "id": 101,
+    "description": "Cloud Notelet is your serene digital sanctuary for note-taking and journaling. Designed with soft, pastel palettes and minimalist typography, this app helps you capture fleeting thoughts, organize your class lectures, and plan your study sessions without the usual digital clutter. It features seamless cloud syncing across all your devices, an integrated task manager, and customizable paper textures to mimic your favorite physical notebooks. Dive into a distraction-free writing environment that makes studying feel peaceful and inspiring. The long-term vision is to incorporate a collaborative study space where you can share beautifully formatted notes with friends or study groups, making group projects a breeze and keeping everyone on the same aesthetically pleasing page. Enjoy the calm and organized journey to academic success.",
+    "size": 55,
+    "reviews": 12450,
+    "ratingAvg": 4.8,
+    "downloads": 580000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2250 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/ca/f4/41/caf44165f6e4c7ea77502ffad14fd7ea.jpg",
+    "title": "Mocha Focus Timer",
+    "companyName": "Cozy Productivity Apps",
+    "id": 102,
+    "description": "Inspired by the comforting ritual of a warm cup of coffee, Mocha Focus Timer is a beautifully crafted Pomodoro-style timer that melts away study stress. This app uses a warm, brown and cream aesthetic to provide a visually calming experience, helping you stay focused for longer periods. It includes ambient soundscapes like a 'Rainy Day Cafe' or 'Gentle Library Rustle' to set the perfect mood. The unique 'Brew Streak' feature tracks your successful focus sessions, rewarding you with aesthetic digital badges. Beyond a simple timer, it integrates with popular note-taking apps and provides detailed weekly reports on your productivity patterns. This tool is for anyone who loves the 'dark academia' or 'cozy lofi' aesthetic and needs a gentle nudge towards deep, uninterrupted work. It's more than a timer; it's a companion for your mindful study journey, ensuring both your breaks and your deep-focus time are respected and maximized.",
+    "size": 72,
+    "reviews": 21890,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 6540 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/99/0f/ea/990fea0e9da04f4c78f3cf6afb40385a.jpg",
+    "title": "Pastel Planner Pro",
+    "companyName": "Soft Systems Inc.",
+    "id": 103,
+    "description": "Pastel Planner Pro is the ultimate digital planner for students who love the 'cottagecore' or soft aesthetic. Organize your entire academic life—from syllabi and assignments to daily to-dos—in a visually stunning interface with custom pastel themes. Key features include a semester-view calendar, a grade tracker, and a habit-building mini-game where you grow a digital flower garden by completing your daily study tasks. The assignment tracker allows for file uploads, direct linking to notes, and automated reminders that feel less like a nag and more like a gentle notification. Its intuitive drag-and-drop interface makes scheduling feel effortless, turning the daunting task of planning into a delightful creative outlet. Future updates will introduce a 'Vision Board' feature where users can collage their goals and inspirations directly within the planner. Say goodbye to overwhelming, rigid schedules and hello to a flexible, beautiful, and highly effective planning experience.",
+    "size": 98,
+    "reviews": 8500,
+    "ratingAvg": 4.9,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/19/1c/ba/191cbaddedda3a2f5baee9f9166c6b37.jpg",
+    "title": "Zen Flashcards ✨",
+    "companyName": "Mindful Learning Labs",
+    "id": 104,
+    "description": "Zen Flashcards redefines the study of vocabulary and facts with a minimalist, clean design focused on peace and retention. Utilizing proven spaced repetition algorithms, the app customizes your review schedule to maximize memory consolidation while maintaining an incredibly low-stress aesthetic. No jarring animations or bright colors—just clean lines and soothing, neutral tones. Create beautiful flashcard decks that can include images, audio, and even simple drawing annotations. The unique 'Zen Mode' removes all distractions, offering only your card and a calming background. Share your elegantly designed decks with classmates instantly. The developer's commitment is to make repetitive learning tasks feel less like a chore and more like a meditative exercise. This highly efficient tool is essential for anyone preparing for standardized tests or learning a new language, ensuring that the process is as calm as it is comprehensive. Future plans include integration with textbook scanning for instant digital flashcard creation.",
+    "size": 42,
+    "reviews": 15920,
+    "ratingAvg": 4.7,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4340 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/a3/54/40/a3544083caeeadf3847d6f705f9d9c03.jpg",
+    "title": "Lavender Study Hub",
+    "companyName": "Dreamy Digital Tools",
+    "id": 105,
+    "description": "Lavender Study Hub is an all-in-one academic organizer steeped in a dreamy, lavender and beige aesthetic. It seamlessly integrates a study tracker, a course scheduler, and a simple but effective goal-setting interface. The app’s core functionality revolves around its 'Weekly Overview,' which visually maps out your commitments in a soothing, easy-to-read format, preventing burnout and promoting work-life balance. Users can personalize their experience with dozens of calming widgets and custom color-coding schemes that adhere strictly to the pastel aesthetic. The integrated 'Wellness Check-in' feature prompts brief reflections on stress levels, promoting a healthy mindset alongside academic rigor. This is the perfect tool for students seeking a holistic, beautiful, and highly organized approach to their education. We constantly update the ambient sound library with new lofi and nature tracks to ensure your focus environment is always fresh and inspiring.",
+    "size": 110,
+    "reviews": 18760,
+    "ratingAvg": 4.8,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 360 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 12500 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/df/ab/72/dfab7229e9877e031871c69484605f51.jpg",
+    "title": "Warm Lofi Library",
+    "companyName": "Ambient Flow Productions",
+    "id": 106,
+    "description": "Transform your study space with Warm Lofi Library, an immersive ambient sound app featuring a curated selection of chillhop and lofi beats paired with stunning, high-definition aesthetic visuals of cozy libraries and rainy cityscapes. This app isn't just a playlist; it's a dynamic virtual study environment. Users can mix and match 'Focus Layers'—like vinyl crackle, gentle rain, distant thunder, or soft pen scratching—to create their perfect custom soundscape. The built-in, non-intrusive Pomodoro timer integrates subtly into the visual background, keeping track of your work-rest cycles without interrupting your immersion. Perfect for students who struggle to focus in silence or who thrive in the background ambiance of a gentle, comforting space. Regular content drops include new aesthetic backgrounds and exclusive lofi tracks from up-and-coming independent artists. This is your personal, portable quiet corner, available whenever and wherever you need deep, focused work.",
+    "size": 140,
+    "reviews": 35200,
+    "ratingAvg": 4.9,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 28000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/0e/d0/f0/0ed0f0aada1ad0dd5931c9ddd6efb318.jpg",
+    "title": "Petal Tasker",
+    "companyName": "Garden Growth Software",
+    "id": 107,
+    "description": "Petal Tasker gamifies your to-do list with a charming, nature-inspired aesthetic. Every task you complete helps a digital plant grow, transforming your list into a beautiful, flourishing garden. This positive reinforcement method is designed to motivate users who respond well to visual rewards. Key features include highly intuitive recurring task setting, due date reminders that use gentle chimes instead of harsh alarms, and a 'Priority Bloom' system that helps you identify and tackle your most important work first. The app uses soft greens, whites, and floral accents throughout the interface. It's an excellent tool for managing both long-term projects and small daily chores. You can even unlock rare, aesthetic digital flowers and decorative items for your garden. The long-term goal is to make task management a joy, not a burden, by connecting your productivity directly to a satisfying, visual reward. It’s a perfect blend of a cute aesthetic and powerful organizational functionality.",
+    "size": 65,
+    "reviews": 10250,
+    "ratingAvg": 4.7,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/89/8f/3c/898f3c416ac2415ec21475a2f99346c3.jpg",
+    "title": "Aura Tracker",
+    "companyName": "Holistic Mind Systems",
+    "id": 108,
+    "description": "Aura Tracker is a minimalist study session tracker and well-being journal focused on capturing the 'vibe' of your productivity. Instead of rigid data, it prompts users to log their mood, energy level, and environmental conditions at the start and end of each study block. The app then generates beautiful, abstract 'Aura' graphs in pastel gradients, showing the correlation between your environment and your focus success. This unique approach helps users identify their optimal study conditions and emotional state for deep work. It includes a basic task list and calendar, all rendered in a clean, soft aesthetic. It's not just about tracking *time*, but tracking *quality* and *well-being*, promoting a sustainable and healthy study routine. The interface uses a clean, bright, and airy aesthetic to promote clarity and calm. Future updates will incorporate integration with sleep tracking apps to further refine the personalized 'Aura' recommendations for optimal study times.",
+    "size": 85,
+    "reviews": 7500,
+    "ratingAvg": 4.5,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2050 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/8e/11/be/8e11be220be57b768db921b5b2fe1a4a.jpg",
+    "title": "Stellar Scheduler 🌙",
+    "companyName": "Cosmic Productivity LLC",
+    "id": 109,
+    "description": "Stellar Scheduler provides an elegant and intuitive way to manage complex class schedules, deadlines, and extracurricular activities. The app’s design is inspired by celestial bodies, using deep blues, subtle golds, and clean, planetary icons to represent different tasks and courses. Its distinguishing feature is the 'Constellation View,' which visually connects all related tasks (notes, assignments, exams) to their main course, giving you a clear, astronomical map of your semester workload. Set custom moon phase reminders for major deadlines. The interface is meticulously designed for visual clarity and aesthetic appeal, moving beyond simple list management to offer a genuine, high-level overview. This sophisticated tool is perfect for university students with complex, shifting timetables. The ultimate goal is to offer a premium scheduling experience that feels less like a chore and more like navigating your own personal, beautiful cosmos of learning. Never lose track of a deadline again with our beautiful, intuitive interface.",
+    "size": 92,
+    "reviews": 16500,
+    "ratingAvg": 4.6,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4600 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/83/1d/33/831d33d778d3174989f813e7120bc736.jpg",
+    "title": "Whisper Wiki",
+    "companyName": "Minimalist Knowledge Base",
+    "id": 110,
+    "description": "Whisper Wiki is a personal knowledge management tool built on the principles of minimalist design and bi-directional linking. Capture complex concepts and link them together in a digital web that mirrors the way your brain makes connections. The aesthetic is clean, light, and focused entirely on the content, with soft grey and muted color highlights. It's the perfect 'second brain' app for researchers, deep learners, and students who engage in multi-disciplinary studies. You can fluidly move between note-taking, idea mapping, and reference linking within the same beautiful space. The long-form note editor is distraction-free, allowing for hours of deep writing and thought. This tool is built for the academic journey, promoting organic knowledge growth over rigid hierarchy. The ultimate feature is the 'Graph View,' which renders all your interconnected notes as a beautiful, constantly evolving network of knowledge—a visually satisfying representation of your learning progress.",
+    "size": 60,
+    "reviews": 14000,
+    "ratingAvg": 4.7,
+    "downloads": 810000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/76/b1/e1/76b1e16ececa1854b1727b35df94e92c.jpg",
+    "title": "Matcha Study Space",
+    "companyName": "Zen Focus Developers",
+    "id": 111,
+    "description": "Matcha Study Space is your digital haven, utilizing a serene green and warm wood aesthetic to promote focus and calm. This app centers around an advanced Pomodoro timer that features a 'Deep Work Score,' measuring your distraction-free time. It integrates a gentle habit tracker where users can log their daily study commitment, meditation, and exercise. The interface is clean, reminiscent of a Japanese tea house, minimizing visual noise. A key feature is the 'Focus Music' section, offering exclusive playlists of calming, nature-inspired instrumental music curated to aid concentration. This tool is designed for long-term mental well-being alongside academic performance, offering customizable break timers that include guided mini-meditations. The goal is to provide a comprehensive, calming environment where productivity and self-care are equally prioritized. Enjoy the tranquility of your own personal, digital focus retreat.",
+    "size": 125,
+    "reviews": 25100,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 6400 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/8b/1d/fb/8b1dfbbcc812a6b65b38a723c944418d.jpg",
+    "title": "Pixel Library",
+    "companyName": "Retro Study Tools",
+    "id": 112,
+    "description": "Pixel Library is a charming, 8-bit aesthetic app that gamifies the process of reviewing and quizzing yourself on lecture material. Create custom 'Book Bosses'—digital review tests—based on your uploaded notes. Successfully conquering a 'Boss' earns you collectible 8-bit aesthetic items to decorate your personal digital library and character avatar. This unique and nostalgic design is highly engaging for users who appreciate the retro, pixel-art style. It supports multiple quiz formats, including multiple-choice, true/false, and short answer, all presented with fun, retro sound effects. The integrated study tracker visually represents your progress as a scrolling side-scroller game. It is a fantastic tool to make dull review sessions feel like an exciting quest. The comprehensive stats page gives you 'XP' and 'Level' progression, turning your academic journey into a highly rewarding role-playing game. It truly proves that learning can be both productive and incredibly fun.",
+    "size": 78,
+    "reviews": 11950,
+    "ratingAvg": 4.7,
+    "downloads": 690000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 7200 }
+    ]
+  }
+]
