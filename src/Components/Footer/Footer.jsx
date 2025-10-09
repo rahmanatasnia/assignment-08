@@ -3,25 +3,23 @@ import logo from '../../assets/logo.png';
 
 const Footer = () => {
     return (
+        <div className=' bg-[#001931] p-4 text-white'>
         <footer className="footer sm:footer-horizontal bg-[#001931] p-10 text-white">
 
-            <nav>
-                <img src={logo} alt="Logo" className='w-20 h-20'></img>
+            <nav className='max-w-[1440px] mx-auto'>
+                <img src={logo} alt="Logo" className='lg:mt-15 w-20 h-20'></img>
                 <h3 className='font-semibold text-xl'>HERO.IO</h3>
             </nav>
-            <nav>
-                <h6 className="footer-title">Services</h6>
-                <a className="link link-hover">Branding</a>
-                <a className="link link-hover">Design</a>
-                <a className="link link-hover">Marketing</a>
-                <a className="link link-hover">Advertisement</a>
+            <nav className='lg:pl-16'>
+                <h6 className="footer-title">About</h6>
+                <p className='w-[350px]'>HERO.IO is your go-to platform for discovering, exploring, and downloading the best apps for productivity, entertainment, education, and lifestyle. Our mission is to connect users with high-quality, safe, and innovative applications that make everyday tasks easier and more enjoyable. Whether you’re a casual user or a tech enthusiast, AppHub provides curated app lists, detailed reviews, and ratings to help you find exactly what you need. Stay up-to-date with the latest app trends and updates, all in one place.</p>
             </nav>
             <nav>
-                <h6 className="footer-title">Company</h6>
-                <a className="link link-hover">About us</a>
+                <h6 className="footer-title">Quick Links</h6>
+                <a className="link link-hover">Home</a>
+                <a className="link link-hover">All Apps</a>
+                <a className="link link-hover">Categories</a>
                 <a className="link link-hover">Contact</a>
-                <a className="link link-hover">Jobs</a>
-                <a className="link link-hover">Press kit</a>
             </nav>
             <nav>
                 <h6 className="footer-title">Social</h6>
@@ -61,7 +59,13 @@ const Footer = () => {
                     </a>
                 </div>
             </nav>
+
+           
         </footer>
+         <div className='max-w-[1440px] mx-auto border-t border-gray-300 '>
+                <p className='text-center text-gray-300 mt-6'>© 2025 HERO.IO . All Rights Reserved.</p>
+            </div>
+            </div>
     );
 };
 

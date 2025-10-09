@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://i.pinimg.com/1200x/66/0a/95/660a955094c463946a1ae8bd58d7832e.jpg",
+    "title": "Floret Planner",
+    "companyName": "Floret Inc.",
+    "id": 1,
+    "description": "Let every day bloom with purpose; plan gently and let your creativity flourish.",
+    "size": 72,
+    "reviews": 5400,
+    "ratingAvg": 4.8,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 3770 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/82/c2/70/82c270dd83c1e7ecc3adb7948d4e8fac.jpg",
+    "title": "Celeste Calendar",
+    "companyName": "Celeste Labs",
+    "id": 2,
+    "description": "Every moment is a constellation; schedule wisely and let your plans align with the stars.",
+    "size": 80,
+    "reviews": 4800,
+    "ratingAvg": 4.7,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2900 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/65/38/42/653842b2e0650239dba9dcf780b8b127.jpg",
+    "title": "Cute To-Do",
+    "companyName": "Kawaii Works",
+    "id": 3,
+    "description": "Small tasks done with joy become the foundation of a happy life; check them with a smile.",
+    "size": 50,
+    "reviews": 2200,
+    "ratingAvg": 4.5,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1240 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/31/e9/25/31e925acfcc9b9d450c7ae3968bed0a8.jpg",
+    "title": "Dream Journal",
+    "companyName": "NightOwl Apps",
+    "id": 4,
+    "description": "Capture fleeting thoughts and dreams; writing them down transforms them into possibilities.",
+    "size": 55,
+    "reviews": 1800,
+    "ratingAvg": 4.4,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 825 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/9c/f1/97/9cf197bb1bf71524c229dcfd375a3141.jpg",
+    "title": "Chibi Notes",
+    "companyName": "SugarDash",
+    "id": 5,
+    "description": "Little joys and gentle colors turn note-taking into a creative ritual for your day.",
+    "size": 60,
+    "reviews": 2600,
+    "ratingAvg": 4.5,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1370 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/fd/09/97/fd0997a4003d30d55829045d0a77ff55.jpg",
+    "title": "Habit Blossom",
+    "companyName": "Bloom Labs",
+    "id": 6,
+    "description": "Nurture your habits like petals; consistent effort will grow into something beautiful.",
+    "size": 48,
+    "reviews": 2300,
+    "ratingAvg": 4.6,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1330 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/8e/ae/a1/8eaea1eff456324995eac77658420299.jpg",
+    "title": "Celestial Planner",
+    "companyName": "Starlight Soft",
+    "id": 7,
+    "description": "Align your day with the universe; thoughtful planning brings peace to the mind.",
+    "size": 70,
+    "reviews": 2000,
+    "ratingAvg": 4.6,
+    "downloads": 110000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 810 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/a7/e7/9c/a7e79c845b9f7ae2ae3c2fc83e503533.jpg",
+    "title": "Pastel To-Do",
+    "companyName": "SoftKitty Dev",
+    "id": 8,
+    "description": "Pastel colors and gentle reminders transform everyday tasks into a soothing experience.",
+    "size": 52,
+    "reviews": 1900,
+    "ratingAvg": 4.5,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 905 }
+    ]
+  }
+]

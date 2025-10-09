@@ -1,14 +1,15 @@
 import React from 'react';
 import logo from '../../assets/logo.png';
 import github from '../../assets/github.png';
+import { Link } from 'react-router';
 
 
 const Navbar = () => {
 
     const links = <>
 
-        <li className='m-2'>Home</li>
-        <li className='m-2'>Apps</li>
+        <Link to='/'><li className='m-2'>Home</li></Link>
+       <Link to='/apps'><li className='m-2'>Apps</li></Link>
         <li className='m-2'>Installation</li>
 
     </>
@@ -29,13 +30,13 @@ const Navbar = () => {
                 <img src={logo} alt="Logo" className='w-[40px] h-[40px]'/><a className="text-xl font-semibold ml-2">HERO.IO</a>
             </div>
             <div className="navbar-center hidden lg:flex">
-                <ul className="menu menu-horizontal px-1">
+                <ul className="menu menu-horizontal px-1 font-medium text-[18px]">
                     {links}
                 </ul>
             </div>
             <div className="navbar-end">
 
-             <a href='https://github.com/rahmanatasnia/assignment-08' target='_blank' rel='noopener noreferrer' className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white hover:bg-purple-300 hover:scale-105">
+             <a href='https://github.com/rahmanatasnia/assignment-08' target='_blank' rel='noopener noreferrer' className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] w-[120px] h-[40px] lg:w-[150px] lg:h-[50px] rounded-md text-white text-[16px] lg:text-[18px] hover:bg-purple-300 hover:scale-105">
 
              <img src={github} alt="Github Logo" className='w-[20px] h-[20px] invert brightness-0'/>
 
