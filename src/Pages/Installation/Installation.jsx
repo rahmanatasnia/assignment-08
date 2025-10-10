@@ -11,6 +11,7 @@ const MySwal = withReactContent(Swal)
 const Installation = () => {
 
     const [installedApps, setInstalledApps] = useState([]);
+    const[sortBy, setSortBy] = useState();
 
     useEffect(() => {
         const savedApps = JSON.parse(localStorage.getItem('installedApps')) || [];
@@ -30,12 +31,37 @@ const Installation = () => {
 });
     }
 
+    const sortedApps = [...installedApps].sort((a, b) => {
+        if (sortBy === 'downloads') return b.downloads - a.downloads;
+        if (sortBy === 'size') return b.size - a.size;
+        return 0;
+       
+    })
+
 
     return (
         <div className='max-w-[1440px] mx-auto p-8'>
 
             <h1 className='font-bold text-4xl lg:text-6xl text-center mt-10 mb-4'>Your Installed Apps</h1>
             <p className='text-[18px] text-gray-500 text-center mb-14'>Explore All Trending Apps on the Market developed by us</p>
+
+            <div className='block lg:flex justify-between items-center mb-10'>
+                <p className='font-semibold text-xl'>
+                    You've <span>({installedApps.length})</span> installed apps
+                </p>
+                {installedApps.length > 0 && (
+                    <div className='font-semibold border border-gray-300 p-2 mt-6 lg:mt-0'>
+                        <label className='text-xl'> Sort by:</label>
+                        <select value={sortBy}
+                        onChange={(e) => setSortBy(e.target.value)} className='border-gray-300 rounded-md p-2'>
+                            <option value=''>Default</option>
+                            <option value='size-asc'>Small-&gt;Large</option>
+                            <option value='size-desc'>Large-&gt;Small</option>
+                          
+                        </select>
+                    </div>
+                )}
+            </div>
 
             {installedApps.length === 0 ? (
                 <p className='font-semibold text-xl text-gray-400 text-center'>No Apps Installed Yet!</p>

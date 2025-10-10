@@ -6,7 +6,7 @@ import { Star } from 'lucide-react';
 import { ThumbsUp } from 'lucide-react';
 import Swal from 'sweetalert2'
 import withReactContent from 'sweetalert2-react-content'
-import RatingsChart from '../../Components/RatingsChart';
+
 
 const MySwal = withReactContent(Swal)
 
