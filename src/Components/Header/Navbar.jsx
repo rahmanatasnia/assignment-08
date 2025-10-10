@@ -1,16 +1,17 @@
 import React from 'react';
 import logo from '../../assets/logo.png';
 import github from '../../assets/github.png';
-import { Link } from 'react-router';
+import { Link, useLocation } from 'react-router';
 
 
 const Navbar = () => {
+    const location = useLocation();
 
     const links = <>
 
-        <Link to='/'><li className='m-2'>Home</li></Link>
-       <Link to='/apps'><li className='m-2'>Apps</li></Link>
-        <Link to='/installation'><li className='m-2'>Installation</li></Link>
+        <Link to='/'><li className={`m-2 ${location.pathname === "/" ? "text-purple-600 border-b-2" : ""}`}>Home</li></Link>
+       <Link to='/apps'><li className={`m-2 ${location.pathname === "/apps" ? "text-purple-600 border-b-2" : ""}`}>Apps</li></Link>
+        <Link to='/installation'><li className={`m-2 ${location.pathname === "/installation" ? "text-purple-600 border-b-2" : ""}`}>Installation</li></Link>
 
     </>
     return (
@@ -27,7 +28,11 @@ const Navbar = () => {
                        {links}
                     </ul>
                 </div>
+                <Link to ="/">
+                <div className='flex justify-between items-center'>
                 <img src={logo} alt="Logo" className='w-[40px] h-[40px]'/><a className="text-xl font-semibold ml-2">HERO.IO</a>
+                </div>
+                </Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 font-medium text-[18px]">

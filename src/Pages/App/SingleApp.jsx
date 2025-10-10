@@ -10,7 +10,7 @@ const SingleApp = ({ singleApp }) => {
        <Link to ={`/appDetails/${id}`}>
         <div className='max-w-[1440px] mx-auto p-6 lg:p-0 md:p-0 mt-8'>
             
-                <div className='bg-base-200 rounded-md p-8 shadow-md hover:bg-pink-100 hover:scale-95'>
+                <div className='bg-base-200 rounded-md p-8 shadow-md hover:bg-pink-100 hover:scale-95 duration-200'>
                     <div>
                         <img src={image} alt="" className='w-90 h-90 md:w-80 md:h-80 lg:w-70 lg:h-70 rounded-md' />
                         <h1 className='pt-4 font-semibold text-[20px]'>{title}</h1>
